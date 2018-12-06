@@ -16,4 +16,5 @@ OCT:42+32=74
 class TaskC2 {
 
 
+
 }
