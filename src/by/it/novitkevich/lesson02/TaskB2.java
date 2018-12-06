@@ -23,7 +23,11 @@ class TaskB2 {
     public static void main(String[] args) {
 
         int result = + a + b + c + d;
+        int n = 0;
 
-        System.out.println(result);
+        System.out.println(n - a + b - c + d + "=" + result);
     }
+
+
+
 }
